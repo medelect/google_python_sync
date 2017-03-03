@@ -78,15 +78,15 @@ def main():
         # Change the scope to 'https://www.googleapis.com/auth/calendar' and delete any
         # stored credentials.
         event = {
-            'summary': 'dfgdfg1111',
-            'location': 'wwwwwwwsdfgdsfwwwwwww3',
-            'description': 'ddddfffffffffffffffddddddddddd',
+            'summary': 'TotalHedMessage',
+            'location': 'myPlace',
+            'description': 'SomeActions',
             'start': {
-                'dateTime': '2017-02-15T09:30:00-02:00',
+                'dateTime': '2017-03-03T09:30:00-02:00',
                 'timeZone': 'Europe/Kiev',
             },
             'end': {
-                'dateTime': '2017-02-15T20:00:00-02:00',
+                'dateTime': '2017-03-03T20:00:00-02:00',
                 'timeZone': 'Europe/Kiev',
             },
             'recurrence': [
